@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="motosENLACE2.xsl"?>
+
+<!--Ejercicio:
+
+Incluir al documento motos.XML un enlace y un número de código para cada moto,el resultado se mostrará en una tabla que constará de las siguientes celdas:
+número de posición,nombre,imagen,enlace y código,la tabla mostrará cada <TH> con su correspondiente denominación.-->
+
+<motos>
+    <moto codigo="1">
+        <nombre>HONDA-CB-500</nombre>
+        <imagen>HONDA-CB-500.jpg</imagen>
+        <precio>1000</precio>
+        <enlace url="http://www.honda-montesa.es/motos/modelo.php?motos=CB500F"/>
+    </moto>
+    <moto codigo="2">
+        <nombre>BMW_S1000RR</nombre>
+        <imagen>BMW_S1000RR.jpg</imagen>
+        <precio>15000</precio>
+        <enlace url="http://www.bmw-motorrad.es/"></enlace>
+    </moto>
+    <moto codigo="3">
+        <nombre>ktmCross</nombre>
+        <imagen>ktmCross.jpg</imagen>
+        <precio>1000</precio>
+        <enlace url="http://www.arpem.com/motos/modelos/ktm/modelos-08/ktm-50-sx.html"></enlace>
+    </moto>
+    <moto codigo="4">
+        <nombre>2014-hayabusa</nombre>
+        <imagen>2014-hayabusa.png</imagen>
+        <precio>20000</precio>
+        <enlace url="http://www.hayabusa.es/phpBB3/"></enlace>
+    </moto>
+    <moto codigo="5">
+        <nombre>kawasaki-ninja</nombre>
+        <imagen>kawasaki-ninja.jpg</imagen>
+        <precio>8000</precio>
+        <enlace url="http://www.kawasaki.es/es/products"></enlace>
+    </moto>
+</motos>

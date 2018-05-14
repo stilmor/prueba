@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="motosChoose.xsl"?>
+
+<!--Ejercicio:Sacar motos filtrando por colores segúp precio-->
+
+<motos>
+    <moto marca="honda">
+        <nombre>HONDA-CB-500</nombre>
+        <imagen>HONDA-CB-500.jpg</imagen>
+        <precio>1000</precio>
+    </moto>
+    <moto marca="bmw">
+        <nombre>BMW_S1000RR</nombre>
+        <imagen>BMW_S1000RR.jpg</imagen>
+        <precio>15000</precio>
+    </moto>
+    <moto marca="bmw">
+        <nombre>BMW_S1000RT</nombre>
+        <imagen>BMW_S1000RR.jpg</imagen>
+        <precio>17000</precio>
+    </moto>
+    <moto marca="ktm">
+        <nombre>ktmCross</nombre>
+        <imagen>ktmCross.jpg</imagen>
+        <precio>1000</precio>
+    </moto>
+    <moto marca="suzuki">
+        <nombre>2014-hayabusa</nombre>
+        <imagen>2014-hayabusa.png</imagen>
+        <precio>20000</precio>
+    </moto>
+    <moto marca="kawasaki">
+        <nombre>kawasaki-ninja</nombre>
+        <imagen>kawasaki-ninja.jpg</imagen>
+        <precio>8000</precio>
+    </moto>
+</motos>

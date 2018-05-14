@@ -1,0 +1,20 @@
+.table{
+    border: 3px;
+    background-color: blue;
+    border-color: white;
+    border-collapse: collapse;
+}
+
+tr{
+    column-span: all;
+    border-color: aqua;
+    text-align: center;
+
+}
+.titulo{
+   color: white;
+    font-weight: bold;
+}
+.grande{
+    font-size: medium;
+}
